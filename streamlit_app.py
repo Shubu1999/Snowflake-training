@@ -8,4 +8,4 @@ streamlit.text('\N{green salad} Kale, Spinach and Rocket Smoothie')
 streamlit.text('\N{rooster} Hard-Boiled Free-Range Egg')
 streamlit.text('\N{avocado} \N{bread} Avocado Toast')
 
-streamlit.header('\N{banana} \N{mango} Build Your Own Fruit Smoothie  \N{apple} \N{grapes}')
+streamlit.header('\N{banana} \N{mango} Build Your Own Fruit Smoothie  \N{grapes}')
